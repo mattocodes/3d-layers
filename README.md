@@ -1,6 +1,6 @@
 # 3D Layers
 
-Today, I began working on creating a 3D layer effect in CSS3
+Today, I worked on creating a 3D layer effect in CSS3
 
 
 ## Mission
